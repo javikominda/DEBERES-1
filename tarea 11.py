@@ -13,6 +13,8 @@ for fila in matriz:
 # Modificar un valor en la matriz (por ejemplo, cambiar el valor en la posición [1][1] a 10)
 matriz[1][1] = 10
 
+
+
 # Imprimir la matriz modificada
 print("\nMatriz modificada:")
 for fila in matriz:
