@@ -46,6 +46,7 @@ datos_temperatura = {
     'CiudadC': [[64, 68, 67, 72, 70, 73, 75], [77, 80, 81, 75, 73, 72, 68]]
 }
 
+
 # Imprimir el código
 print("def convertir_fahrenheit_a_celsius(fahrenheit):")
 print('    return (fahrenheit - 32) * 5/9')
