@@ -5,6 +5,7 @@ def convertir_fahrenheit_a_celsius(fahrenheit):
     Args:
     - fahrenheit (float): Temperatura en grados Fahrenheit.
 
+
     Returns:
     - float: Temperatura convertida a grados Celsius.
     """
